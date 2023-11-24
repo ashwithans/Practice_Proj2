@@ -1,0 +1,10 @@
+101	Sam	23	Male	Mangalore
+102	Reema	24	Female	Delhi
+103	Shlagya	23	Female	Pune
+104	Amit	26	Male	Mumbai
+105	John	25	Male	Chennai
+106	Ram	23	Male	Hyderabad
+107	Megha	24	Female	Delhi
+108	James	28	Male	Bangalore
+109	Ramya	23	Female	Delhi
+110	Raghu	24	Male	Pune
